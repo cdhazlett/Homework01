@@ -49,7 +49,6 @@ public class CalcActivity extends AppCompatActivity {
                 float value1 = Float.parseFloat(val1.getText().toString());
                 float value2 = Float.parseFloat(val2.getText().toString());
 
-//                res_box.setText(Integer.toString(spinner.getSelectedItemPosition()));
 
                 if (spinner.getSelectedItemPosition() == 0)
                 {

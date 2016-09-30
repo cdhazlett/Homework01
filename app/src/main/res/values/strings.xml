@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework01 by cdh24</string>
+    <string-array name="operations_array">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
